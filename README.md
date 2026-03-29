@@ -142,3 +142,4 @@ pip install pandas numpy scipy scikit-learn matplotlib seaborn
 - Original dataset: [Credit Card Fraud Detection Dataset 2023 — Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 - Scikit-learn: [IsolationForest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html), [LocalOutlierFactor](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html)
 - Rousseeuw & Croux (1993) — Alternatives to the Median Absolute Deviation
+- Initial Approach: [Anomaly detection in time series with Python | Data Science with Marco](https://www.youtube.com/watch?v=qy41dXGbAxY)
